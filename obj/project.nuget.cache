@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bQ9e7aJKFAgpJduQFUcUd5fUsVQUsCp6eHBgozs209E8xp2AHMBa26uJMmarUmLuJeLwJhV+ezE9ZZPubazhOg==",
+  "success": true,
+  "projectFilePath": "/Users/peterhagenson/PrimeCont/C-.NET-Web-Api-Project/C-.NET-Web-Api-Project.csproj",
+  "expectedPackageFiles": [
+    "/Users/peterhagenson/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/peterhagenson/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/peterhagenson/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/peterhagenson/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/peterhagenson/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/peterhagenson/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
